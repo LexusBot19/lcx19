@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/LexusBot19/lekus19
+> cd leksus19
 > npm install
 ```
 ###### Run
@@ -21,13 +21,16 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/LexusBot19/leksus19
+> cd leksus19
 > npm install
 ```
 ###### Run
 ```bash
 > node index.js
-```
+``
 
- 
+
+
+
+TKS INFONYA?
