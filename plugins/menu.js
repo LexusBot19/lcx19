@@ -103,7 +103,7 @@ Cara Tambah XP:
 ╠➥ Youtube: https://youtube.com/channel/UCBn8TV6O4x56Js0-lCU7ynQ
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
+╠➥ Name : LEXUS BOT
 ╠➥ Coded using *Nano* on Vps
 ╠➥ Request? Wa.me/088806756044
 ╠═════
