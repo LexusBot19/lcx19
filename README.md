@@ -1,4 +1,4 @@
-# NfQ-BoT
+# Leksus Bot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -29,8 +29,5 @@ Simple WhatsApp Bot
 ```bash
 > node index.js
 ```
- SOSMED:
+
  
- Instagram: @arpunchs
- 
- Youtube: Drawl Nag
